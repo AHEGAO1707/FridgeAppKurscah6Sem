@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">My Fridge</string>
+    <string name="createFridgeButton">Добавить холодильник</string>
+    <string name="Save">Сохранить</string>
+    <string name="Saved">Рецепт сохранен</string>
+    <string name="SavedProp">Настройки сохранены</string>
+    <string name="password">Пароль</string>
+    <string name="email">Почта</string>
+    <string name="surname">Фамилия</string>
+    <string name="secondName">Отчество</string>
+    <string name="name">Имя</string>
+    <string name="reject">Отмена</string>
+    <string name="accept">Принять</string>
+    <string name="ChooseFridgeName">Впишите название для холодильника:</string>
+    <string name="DropFridgeName">Вы действительно хотите удалить?</string>
+    <string name="DropFridgeAccept">Да</string>
+    <string name="DropFridgeReject">Нет</string>
+    <string name="addNewFood">Добавить продукт</string>
+    <string name="SearchHint">Поиск по продуктам</string>
+    <string name="ERROR_INPUT">Впишите название для холодильника: (Не используйте символы точек с запятой и кавычек)</string>
+    <string name="END_DATE_INPUT">Годен до</string>
+    <string name="START_DATE_INPUT">Дата изготовления</string>
+    <string name="DIALOG_FOOD_NAME">Название продукта</string>
+    <string name="INPUT_QUONTITY_HINT">Обьем (Не обязательно)</string>
+    <string name="TITLE_COLUMN">Название</string>
+    <string name="QUANTITI_COLUMN">Количество</string>
+    <string name="DATE_COLUMN">Годен до</string>
+    <string name="REDACT">Редактировать</string>
+    <string name="PRODUCT_NAME">Название продукта</string>
+    <string name="PRODUCTION_DATE">Дата производства</string>
+    <string name="NOT_STATED">Не задано</string>
+    <string name="SurnameTextHint">Фамилия</string>
+    <string name="Name">Имя</string>
+    <string name="HintThirdName">Отчество</string>
+    <string name="Email">Email</string>
+    <string name="UpdateFridgeHint">Автоматически проверять холодильник за:</string>
+    <string name="HoursHint">В часах</string>
+    <string name="HintCookBookSearch">Поиск по книге рецептов</string>
+    <string name="CookDialogAddReciept">Впишите название для рецепта: (Не используйте символы точек с запятой и кавычек)</string>
+    <string name="AddRecieptText">Добавить рецепт</string>
+    <string name="NOTIFICATION_TICKER">скоро испортится!</string>
+    <string name="NOTIFICATION_TITLE">Проверьте холодильник!</string>
+
+
+</resources>
